@@ -50,7 +50,7 @@ function Home() {
 
           {/* Download Resume Button */}
           <a
-            href={process.env.PUBLIC_URL + "/Suryansh_Resume.pdf"}
+            href={process.env.PUBLIC_URL + "/Suryansh_Gupta.pdf"}
             target="_blank"
             rel="noreferrer"
             style={{
