@@ -3,11 +3,25 @@ import React, { Component } from 'react'
 function Projects() {
   const projects = [
     {
-      title: "GlobalPlus-News",
-      desc: "Personal developer portfolio showcasing projects, skills and achievements with responsive UI.",
-      tech: ["React", "Bootstrap", "JavaScript"],
-      github: "https://github.com/Suryanshgupta1234/GlobalPlus-News",
-      live: "#https://suryanshgupta1234.github.io/GlobalPlus-News/"
+      title: "AntiGravity Interview Simulator",
+      desc: "This is the full-stack project build with the use of AI to enhance my placement skills.",
+      tech: ["React", "Node.js","Python"],
+      github: "https://github.com/Suryanshgupta1234/interview-simulator",
+      live: "https://suryanshgupta1234.github.io/interview-simulator/"
+    },
+    {
+      title: "Amazon Clone",
+      desc: "This is a Landing page of the Amazone web page",
+      tech: ["HTML", "CSS"],
+      github: "https://github.com/Suryanshgupta1234/Amazon_Clone",
+      live: "https://amazon-clone-jet-nine.vercel.app/"
+    },
+    {
+      title: "Live School-api",
+      desc: "This is the School-api that trace the record of the ID, Address, Name, Longitude and Latitude",
+      tech: ["Node.js", "Express", "MySQL","Render","Postman"],
+      github: "https://github.com/Suryanshgupta1234/school-api",
+      live: "https://school-api-rq27.onrender.com/api/listSchools?latitude=28.7&longitude=77.1"
     },
     {
       title: "Leetcode Questions Solutions",
